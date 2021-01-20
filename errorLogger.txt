@@ -1,0 +1,90 @@
+Error: Unable to fetch
+Error: Unable to fetch
+Error: Id already Exists
+TypeError: Cannot read property 'balance' of undefined
+TypeError: Cannot read property 'balance' of undefined
+Error: Id already Exists
+Error: Id already Exists
+Error: Id already Exists
+Error: Id already Exists
+Error: Id already Exists
+Error: Id already Exists
+Error: Id already Exists
+Error: Id already Exists
+Error: Id already Exists
+Error: Id already Exists
+Error: Id already Exists
+Error: Id already Exists
+Error: Id already Exists
+Error: Id already Exists
+Error: Id already Exists
+Error: Id already Exists
+Error: Id already Exists
+ValidationError: accDetails.ifsc: ifsc num is needed
+ValidationError: accDetails.ifsc: ifsc num is needed
+ValidationError: accDetails.ifsc: ifsc num is needed
+ValidationError: accDetails.ifsc: ifsc num is needed
+ValidationError: accDetails.ifsc: ifsc num is needed
+ValidationError: accDetails.ifsc: ifsc num is needed
+SyntaxError: Unexpected string in JSON at position 165
+Error: Id already Exists
+ValidationError: accDetails.branch: branch num is needed
+Error: Customer Not Existing
+ValidationError: accDetails.0.branch: branch num is needed
+Error: Some Error Occured
+Error: Id already Exists
+Error: Some Error Occured
+Error: Id already Exists
+Error: Id already Exists
+ObjectParameterError: Parameter "obj" to Document() must be an object, got 6068195678
+TypeError: Cannot read property 'balance' of undefined
+MongooseError: Mongoose 5.x disallows passing a spread of operators to `Model.aggregate()`. Instead of `Model.aggregate({ $match }, { $skip })`, do `Model.aggregate([{ $match }, { $skip }])`
+MongooseError: Mongoose 5.x disallows passing a spread of operators to `Model.aggregate()`. Instead of `Model.aggregate({ $match }, { $skip })`, do `Model.aggregate([{ $match }, { $skip }])`
+MongooseError: Mongoose 5.x disallows passing a spread of operators to `Model.aggregate()`. Instead of `Model.aggregate({ $match }, { $skip })`, do `Model.aggregate([{ $match }, { $skip }])`
+MongooseError: Mongoose 5.x disallows passing a spread of operators to `Model.aggregate()`. Instead of `Model.aggregate({ $match }, { $skip })`, do `Model.aggregate([{ $match }, { $skip }])`
+TypeError: Bank.aggregate(...).lean is not a function
+TypeError: Cannot read property 'balance' of undefined
+MongoError: Cannot create field 'balance' in element {accDetails: [ { _id: ObjectId('5fde2c5ec5f5c2298425d74b'), accountNum: 5068145678.0, ifsc: "ICIC0006", branch: "Nagapattinam", balance: 100004 }, { _id: ObjectId('5fde2c79c5f5c2298425d74c'), accountNum: 5067845678.0, ifsc: "ICIC0006", branch: "Nagapattinam", balance: 100004 }, { _id: ObjectId('5fde344d12206c290039a63a'), accountNum: 5668705678.0, ifsc: "ICIC0006", balance: 180000, branch: "Nagaipattinam" } ]}
+MongoError: The field 'transferHistory' must be an array but is of type object in document {_id: 3}
+ReferenceError: transferArray is not defined
+MongoError: The field 'transferHistory' must be an array but is of type object in document {_id: 3}
+MongoError: The field 'transferHistory' must be an array but is of type object in document {_id: 3}
+MongoError: The field 'transferHistory' must be an array but is of type object in document {_id: 3}
+MongoError: The field 'transferHistory' must be an array but is of type object in document {_id: 3}
+MongoError: The field 'transferHistory' must be an array but is of type object in document {_id: 3}
+MongoError: The field 'transferHistory' must be an array but is of type object in document {_id: 3}
+MongoError: The field 'transferHistory' must be an array but is of type object in document {_id: 3}
+MongoError: The field 'transferHistory' must be an array but is of type object in document {_id: 3}
+ValidationError: dob: Cast to date failed for value "20-11-1994" at path "dob"
+ValidationError: dob: Cast to date failed for value "20-11-1994" at path "dob"
+MongooseError: Operation `banks.aggregate()` buffering timed out after 10000ms
+MongooseError: Operation `banks.aggregate()` buffering timed out after 10000ms
+MongoError: The field 'AvailableBalance' must be an accumulator object
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Error: Account Number Not exist
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Error: Insuffient Balance
+ReferenceError: transferHistory is not defined
+Error: Id already Exists
+Error: Id already Exists
+ReferenceError: next is not defined
+Error: Invalid Path
+Error: Insuffient Balance
+Error: Customer Not Existing
+Error: Invalid Path
+Error: Invalid Path
+Error: Invalid Path
+Error: Invalid Path
+ReferenceError: transferHistory is not defined
+Error: Account Number Not exist
+TypeError: Cannot read property 'transferHistory' of undefined
+Error: No Transaction Available
+Error: No Transaction Available
+Error: No Transaction Available
+Error: Invalid Path
+Error: Invalid Path
+Error: Invalid Path
+Error: Invalid Path
+MongoError: $or must be an array
+Error: Invalid Path
